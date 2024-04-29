@@ -42,4 +42,4 @@ matrix = [
     [4, 2, 1],
     [3, 5, 5]
 ]
-print(longestValidSequence(matrix))  # 输出应该为 4
+print(longestValidSequence(matrix))  # 输出应该为 5
